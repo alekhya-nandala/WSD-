@@ -1,0 +1,99 @@
+.image{
+  
+    position: relative;
+    margin-left: 44%;
+    
+
+
+}
+.image img{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+}
+.hed{
+    background-color: rgb(164, 161, 161);
+    height: 700;
+
+}
+a:link{
+    color: #5f41b1;
+}
+a:visited{
+    color: #5f41b1;
+}
+a:hover{
+    color: aliceblue;
+}
+.hed li{
+    display: inline-block;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    
+}
+.hed ul{
+   
+    text-align: center;
+   
+}
+.hed h2{
+    color: #5f41b1;;
+    text-align: center;
+    font-size: 40px;
+}
+.summary{
+    text-align: center;
+    color:#5f41b1;
+    
+}
+.education h2{
+    text-align: center;
+  
+}
+.education{
+    color:#5f41b1; 
+}
+
+.masters li{
+    background-color:  rgb(203, 196, 196);
+}
+.Btech li{
+    background-color:  rgb(203, 196, 196);
+}
+.skills h2{
+    text-align: center;
+
+}
+.skills{
+    
+    color:#5f41b1;
+}
+.EXP h2{
+    text-align: center;
+}
+.EXP{
+    color:#5f41b1;
+}
+.EXP ul li{
+    background-color:  rgb(203, 196, 196);
+}
+.aca h2{
+    text-align: center;
+}
+.aca{
+    color:#5f41b1;
+}
+.cert h2{
+    text-align: center;
+
+}
+.cert{
+    color:#5f41b1;
+}
+footer{
+    text-align: center;
+    background-color: rgb(164, 161, 161);
+    margin-top: 30px;
+    padding: 10px 0;
+    color: #5f41b1;
+}
